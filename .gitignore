@@ -1,0 +1,22 @@
+# Model weights (too large for GitHub)
+*.pt
+*.dat
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Screenshots folder
+violation_screenshots/
+
+# Database credentials (security)
+# (manually remove passwords from your .py files before pushing!)
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Excel reports (generated files)
+*.xlsx
