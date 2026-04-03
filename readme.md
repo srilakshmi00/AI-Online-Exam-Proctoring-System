@@ -40,5 +40,6 @@ python main_proctor.py
 
 
 ## Note
+yolov8n.pt downloads automatically on first run via the ultralytics library.
 Download `shape_predictor_68_face_landmarks.dat` separately:
 http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
